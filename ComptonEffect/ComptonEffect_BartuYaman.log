@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.20)  28 MAR 2022 22:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.20)  1 APR 2022 01:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -904,44 +904,100 @@ rs
 (C:\Users\Bartu\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
 Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 28.
+(C:\Users\Bartu\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunitx.sty
+Package: siunitx 2022-02-15 v3.0.49 A comprehensive (SI) units package
+\l__siunitx_angle_tmp_dim=\dimen292
+\l__siunitx_angle_marker_box=\box69
+\l__siunitx_angle_unit_box=\box70
+\l__siunitx_compound_count_int=\count340
 
-(ComptonEffect_BartuYaman.aux)
+(C:\Users\Bartu\AppData\Local\Programs\MiKTeX\tex/latex/translations\translatio
+ns.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
+ (CN)
+)
+\l__siunitx_number_exponent_fixed_int=\count341
+\l__siunitx_number_min_decimal_int=\count342
+\l__siunitx_number_min_integer_int=\count343
+\l__siunitx_number_round_precision_int=\count344
+\l__siunitx_number_group_minimum_int=\count345
+\l__siunitx_table_tmp_box=\box71
+\l__siunitx_table_tmp_dim=\dimen293
+\l__siunitx_table_column_width_dim=\dimen294
+\l__siunitx_table_integer_box=\box72
+\l__siunitx_table_decimal_box=\box73
+\l__siunitx_table_before_box=\box74
+\l__siunitx_table_after_box=\box75
+\l__siunitx_table_before_dim=\dimen295
+\l__siunitx_table_carry_dim=\dimen296
+\l__siunitx_unit_tmp_int=\count346
+\l__siunitx_unit_position_int=\count347
+\l__siunitx_unit_total_int=\count348
+
+(C:\Users\Bartu\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3k
+eys2e.sty
+Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+)
+
+Package siunitx Warning: Detected the "physics" package:
+(siunitx)                Omitting definition of \qty.
+
+(C:\Users\Bartu\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen297
+\ar@mcellbox=\box76
+\extrarowheight=\dimen298
+\NC@list=\toks46
+\extratabsurround=\skip69
+\backup@length=\skip70
+\ar@cellbox=\box77
+))
+Package hyperref Info: Option `colorlinks' set `true' on input line 29.
+
+
+Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 45.
+
+Package translations Info: No language package found. I am going to use `englis
+h' as default language. on input line 51.
+(ComptonEffect_BartuYaman.aux (Sections/Introduction.aux)
+(Sections/ExperimentalDetails.aux) (Sections/MeasurementAndDataAnalysis.aux)
+(Sections/ResultsAndDiscussion.aux))
 \openout1 = `ComptonEffect_BartuYaman.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
 
 (C:\Users\Bartu\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count340
-\scratchdimen=\dimen292
-\scratchbox=\box69
-\nofMPsegments=\count341
-\nofMParguments=\count342
-\everyMPshowfont=\toks46
-\MPscratchCnt=\count343
-\MPscratchDim=\dimen293
-\MPnumerator=\count344
-\makeMPintoPDFobject=\count345
-\everyMPtoPDFconversion=\toks47
+\scratchcounter=\count349
+\scratchdimen=\dimen299
+\scratchbox=\box78
+\nofMPsegments=\count350
+\nofMParguments=\count351
+\everyMPshowfont=\toks47
+\MPscratchCnt=\count352
+\MPscratchDim=\dimen300
+\MPnumerator=\count353
+\makeMPintoPDFobject=\count354
+\everyMPtoPDFconversion=\toks48
 )
 (C:\Users\Bartu\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -953,7 +1009,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring ON on input line 50.
+Package hyperref Info: Link coloring ON on input line 51.
 
 (C:\Users\Bartu\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -965,11 +1021,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 lestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count346
+\c@section@level=\count355
 )
-LaTeX Info: Redefining \ref on input line 50.
-LaTeX Info: Redefining \pageref on input line 50.
-LaTeX Info: Redefining \nameref on input line 50.
+LaTeX Info: Redefining \ref on input line 51.
+LaTeX Info: Redefining \pageref on input line 51.
+LaTeX Info: Redefining \nameref on input line 51.
  (ComptonEffect_BartuYaman.out) (ComptonEffect_BartuYaman.out)
 \@outlinefile=\write4
 \openout4 = `ComptonEffect_BartuYaman.out'.
@@ -979,21 +1035,30 @@ LaTeX Info: Redefining \nameref on input line 50.
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
 your preamble.
- on input line 50.
+ on input line 51.
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 50.
-<./images/compton_effect.png, id=22, 632.3625pt x 341.275pt>
+(lastpage)             ! on input line 51.
+
+(C:\Users\Bartu\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\tran
+slations-basic-dictionary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `tra
+nslations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `english'. on input line 51.
+<./images/compton_effect.png, id=138, 632.3625pt x 341.275pt>
 File: ./images/compton_effect.png Graphic file (type png)
 <use ./images/compton_effect.png>
-Package pdftex.def Info: ./images/compton_effect.png  used on input line 85.
+Package pdftex.def Info: ./images/compton_effect.png  used on input line 83.
 (pdftex.def)             Requested size: 216.81pt x 117.00574pt.
-<./images/metu_logo.jpg, id=23, 380.7315pt x 76.5405pt>
+<./images/metu_logo.jpg, id=139, 380.7315pt x 76.5405pt>
 File: ./images/metu_logo.jpg Graphic file (type jpg)
 <use ./images/metu_logo.jpg>
-Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 93.
+Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 91.
 (pdftex.def)             Requested size: 142.26271pt x 28.45267pt.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 32.8027pt, for example:
@@ -1006,10 +1071,116 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 {C:/Users/Bartu/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/met
-u_logo.jpg> <./images/compton_effect.png>] (ComptonEffect_BartuYaman.toc)
+u_logo.jpg> <./images/compton_effect.png>] (ComptonEffect_BartuYaman.toc
+File: ./images/metu_logo.jpg Graphic file (type jpg)
+<use ./images/metu_logo.jpg>
+Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 33.
+(pdftex.def)             Requested size: 142.26271pt x 28.45267pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 32.8027pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.8027pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-20.8027pt}.
+
+[2])
 \tf@toc=\write5
 \openout5 = `ComptonEffect_BartuYaman.toc'.
 
+File: ./images/metu_logo.jpg Graphic file (type jpg)
+<use ./images/metu_logo.jpg>
+Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 93.
+(pdftex.def)             Requested size: 142.26271pt x 28.45267pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 32.8027pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.8027pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-20.8027pt}.
+
+[3]
+\openout2 = `Sections/Introduction.aux'.
+
+ (Sections/Introduction.tex
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 8.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--23
+
+ []
+
+<images/thomson_scattering.png, id=193, 390.45876pt x 348.30125pt>
+File: images/thomson_scattering.png Graphic file (type png)
+<use images/thomson_scattering.png>
+Package pdftex.def Info: images/thomson_scattering.png  used on input line 38.
+(pdftex.def)             Requested size: 195.0pt x 173.94292pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--40
+
+ []
+
+File: ./images/metu_logo.jpg Graphic file (type jpg)
+<use ./images/metu_logo.jpg>
+Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 40.
+(pdftex.def)             Requested size: 142.26271pt x 28.45267pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 32.8027pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.8027pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-20.8027pt}.
+
+[4
+
+]
+<images/compton_scattering.png, id=205, 542.025pt x 332.24126pt>
+File: images/compton_scattering.png Graphic file (type png)
+<use images/compton_scattering.png>
+Package pdftex.def Info: images/compton_scattering.png  used on input line 47.
+(pdftex.def)             Requested size: 390.0pt x 239.06142pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: ./images/metu_logo.jpg Graphic file (type jpg)
+<use ./images/metu_logo.jpg>
+Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 71.
+(pdftex.def)             Requested size: 142.26271pt x 28.45267pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 32.8027pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.8027pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-20.8027pt}.
+
+[5 <./images/thomson_scattering.png>]
+File: ./images/metu_logo.jpg Graphic file (type jpg)
+<use ./images/metu_logo.jpg>
+Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 85.
+(pdftex.def)             Requested size: 142.26271pt x 28.45267pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 32.8027pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.8027pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-20.8027pt}.
+
+[6 <./images/compton_scattering.png>])
 File: ./images/metu_logo.jpg Graphic file (type jpg)
 <use ./images/metu_logo.jpg>
 Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 95.
@@ -1023,10 +1194,49 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-20.8027pt}.
 
-[2] (ComptonEffect_BartuYaman.bbl
+[7]
+\openout2 = `Sections/ExperimentalDetails.aux'.
+
+ (Sections/ExperimentalDetails.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--9
+
+ []
+
+<images/exp_setup.png, id=233, 443.256pt x 467.94826pt>
+File: images/exp_setup.png Graphic file (type png)
+<use images/exp_setup.png>
+Package pdftex.def Info: images/exp_setup.png  used on input line 14.
+(pdftex.def)             Requested size: 195.0pt x 205.86217pt.
 File: ./images/metu_logo.jpg Graphic file (type jpg)
 <use ./images/metu_logo.jpg>
-Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 12.
+Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 21.
+(pdftex.def)             Requested size: 142.26271pt x 28.45267pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 32.8027pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.8027pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-20.8027pt}.
+
+[8
+
+
+
+ <./images/exp_setup.png>]
+<images/mca.jpeg, id=241, 1204.5pt x 1606.0pt>
+File: images/mca.jpeg Graphic file (type jpg)
+<use images/mca.jpeg>
+Package pdftex.def Info: images/mca.jpeg  used on input line 25.
+(pdftex.def)             Requested size: 195.0pt x 259.97943pt.
+File: ./images/metu_logo.jpg Graphic file (type jpg)
+<use ./images/metu_logo.jpg>
+Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 37.
 (pdftex.def)             Requested size: 142.26271pt x 28.45267pt.
 
 
@@ -1037,11 +1247,194 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-20.8027pt}.
 
-[3]) 
+[9 <./images/mca.jpeg>]
+<images/scintillator.jpg, id=248, 602.25pt x 602.25pt>
+File: images/scintillator.jpg Graphic file (type jpg)
+<use images/scintillator.jpg>
+Package pdftex.def Info: images/scintillator.jpg  used on input line 45.
+(pdftex.def)             Requested size: 195.0pt x 195.00294pt.
+File: ./images/metu_logo.jpg Graphic file (type jpg)
+<use ./images/metu_logo.jpg>
+Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 50.
+(pdftex.def)             Requested size: 142.26271pt x 28.45267pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 32.8027pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.8027pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-20.8027pt}.
+
+[10 <./images/scintillator.jpg>]
+<images/pmt.png, id=254, 726.715pt x 632.3625pt>
+File: images/pmt.png Graphic file (type png)
+<use images/pmt.png>
+Package pdftex.def Info: images/pmt.png  used on input line 54.
+(pdftex.def)             Requested size: 195.0pt x 169.67876pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--62
+
+ []
+
+File: ./images/metu_logo.jpg Graphic file (type jpg)
+<use ./images/metu_logo.jpg>
+Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 74.
+(pdftex.def)             Requested size: 142.26271pt x 28.45267pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 32.8027pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.8027pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-20.8027pt}.
+
+[11 <./images/pmt.png>]
+File: ./images/metu_logo.jpg Graphic file (type jpg)
+<use ./images/metu_logo.jpg>
+Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 93.
+(pdftex.def)             Requested size: 142.26271pt x 28.45267pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 32.8027pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.8027pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-20.8027pt}.
+
+[12])
+File: ./images/metu_logo.jpg Graphic file (type jpg)
+<use ./images/metu_logo.jpg>
+Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 98.
+(pdftex.def)             Requested size: 142.26271pt x 28.45267pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 32.8027pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.8027pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-20.8027pt}.
+
+[13]
+\openout2 = `Sections/MeasurementAndDataAnalysis.aux'.
+
+ (Sections/MeasurementAndDataAnalysis.tex
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 5.
+
+<images/calibration_spectra.png, id=271, 642.60075pt x 319.1925pt>
+File: images/calibration_spectra.png Graphic file (type png)
+<use images/calibration_spectra.png>
+Package pdftex.def Info: images/calibration_spectra.png  used on input line 11.
+
+(pdftex.def)             Requested size: 390.0pt x 193.71843pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--18
+
+ []
+
+<images/raw_spectra.png, id=272, 949.74825pt x 469.755pt>
+File: images/raw_spectra.png Graphic file (type png)
+<use images/raw_spectra.png>
+Package pdftex.def Info: images/raw_spectra.png  used on input line 22.
+(pdftex.def)             Requested size: 390.0pt x 192.90184pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/smoothed_spectra.png, id=273, 690.1785pt x 322.20375pt>
+File: images/smoothed_spectra.png Graphic file (type png)
+<use images/smoothed_spectra.png>
+Package pdftex.def Info: images/smoothed_spectra.png  used on input line 30.
+(pdftex.def)             Requested size: 390.0pt x 182.07004pt.
+File: ./images/metu_logo.jpg Graphic file (type jpg)
+<use ./images/metu_logo.jpg>
+Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 32.
+(pdftex.def)             Requested size: 142.26271pt x 28.45267pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 32.8027pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.8027pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-20.8027pt}.
+
+[14
+
+
+
+ <./images/calibration_spectra.png>]
+File: ./images/metu_logo.jpg Graphic file (type jpg)
+<use ./images/metu_logo.jpg>
+Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 35.
+(pdftex.def)             Requested size: 142.26271pt x 28.45267pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 32.8027pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.8027pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-20.8027pt}.
+
+[15 <./images/raw_spectra.png> <./images/smoothed_spectra.png>]
+
+Package siunitx Warning: Unit macro \angstrom has been deprecated in this
+(siunitx)                release.
+(siunitx)                
+(siunitx)                The BIPM have removed this unit from the SI Brochure.
+(siunitx)                You should define it yourself using \DeclareSIUnit in
+(siunitx)                your source. The current definition is
+(siunitx)                
+(siunitx)                \DeclareSIUnit\angstrom{\text {Å}}
+
+)
+File: ./images/metu_logo.jpg Graphic file (type jpg)
+<use ./images/metu_logo.jpg>
+Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 101.
+(pdftex.def)             Requested size: 142.26271pt x 28.45267pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 32.8027pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.8027pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-20.8027pt}.
+
+[16]
+\openout2 = `Sections/ResultsAndDiscussion.aux'.
+
+ (Sections/ResultsAndDiscussion.tex)
+File: ./images/metu_logo.jpg Graphic file (type jpg)
+<use ./images/metu_logo.jpg>
+Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 104.
+(pdftex.def)             Requested size: 142.26271pt x 28.45267pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 32.8027pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.8027pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-20.8027pt}.
+
+[17
+
+
+
+] (ComptonEffect_BartuYaman.bbl) 
 AED: lastpage setting LastPage
 File: ./images/metu_logo.jpg Graphic file (type jpg)
 <use ./images/metu_logo.jpg>
-Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 141.
+Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 112.
 (pdftex.def)             Requested size: 142.26271pt x 28.45267pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1051,28 +1444,42 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-20.8027pt}.
 
-[4] (ComptonEffect_BartuYaman.aux)
+[18
+
+
+] (ComptonEffect_BartuYaman.aux (Sections/Introduction.aux)
+(Sections/ExperimentalDetails.aux) (Sections/MeasurementAndDataAnalysis.aux)
+(Sections/ResultsAndDiscussion.aux))
 Package rerunfilecheck Info: File `ComptonEffect_BartuYaman.out' has not change
 d.
-(rerunfilecheck)             Checksum: 60EBD40E8F3489F3E1DD8C032D0B6696;605.
+(rerunfilecheck)             Checksum: 846F79AD9B91F8D518B5C085E680007D;5093.
  ) 
 Here is how much of TeX's memory you used:
- 34343 strings out of 478582
- 816742 string characters out of 2844344
- 1250631 words of memory out of 3000000
- 51927 multiletter control sequences out of 15000+600000
- 474881 words of font info for 47 fonts, out of 8000000 for 9000
+ 38007 strings out of 478582
+ 929592 string characters out of 2844344
+ 1271462 words of memory out of 3000000
+ 55469 multiletter control sequences out of 15000+600000
+ 475486 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,14n,89p,1194b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 84i,15n,89p,1194b,829s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\Bartu\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1200.pk><C:/Users/Bartu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb><C:/Users/Bartu/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmbx12.pfb><C:/Users/Bartu/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmr12.pfb><C:/Users/Bartu/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on ComptonEffect_BartuYaman.pdf (4 pages, 103422 bytes).
+ype1/public/amsfonts/cm/cmex10.pfb><C:/Users/Bartu/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Bartu/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Bartu/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Bartu/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/B
+artu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/
+Users/Bartu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10
+.pfb><C:/Users/Bartu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmsy6.pfb><C:/Users/Bartu/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmsy8.pfb><C:/Users/Bartu/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmti12.pfb>
+Output written on ComptonEffect_BartuYaman.pdf (18 pages, 6023149 bytes).
 PDF statistics:
- 82 PDF objects out of 1000 (max. 8388607)
- 13 named destinations out of 1000 (max. 500000)
- 55 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 377 PDF objects out of 1000 (max. 8388607)
+ 75 named destinations out of 1000 (max. 500000)
+ 332 words of extra memory for PDF output out of 10000 (max. 10000000)
 

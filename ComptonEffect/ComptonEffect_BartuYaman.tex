@@ -12,6 +12,7 @@
 \usepackage{pgfplots}
 \usepackage{fancyhdr}
 \usepackage{lastpage}
+\usepackage{siunitx}
 
 \pagestyle{fancy}
 \fancyhf{}
@@ -41,7 +42,7 @@
 \setcounter{tocdepth}{4}    % how many sectioning levels to show in ToC
 
 
-\fancyfoot[L,RO]{\thepage}
+\fancyfoot[LE,RO]{\thepage}
 
 \chead{\includegraphics[width=5cm, height=1cm]{./images/metu_logo.jpg}}
 
@@ -77,9 +78,6 @@
 		\\
 		Submission Date: 01.04.2022
 		
-		
-		
-		
 		\nbvspace[2]
 		
 		\includegraphics[width=3in]{./images/compton_effect.png}
@@ -94,43 +92,16 @@
 	\tableofcontents
 	\newpage
 			
-	\section{Introduction}
-	
-	Brief description of the goal, theory, and underlying mechanisms of the experiment. Introduction part must include:
-	
-	 •	Underlying theory and background information of the experiment
-	 
-	 •	Important concepts/terms/definitions used in the experiment
+	\include{Sections/Introduction}
 	 
 	
-	\section{Experimental Details}
-	
-	Brief description of the experimental setup and data acquisition. Experimental Details part must include:
-	
-	•	Important steps of the experimental procedure
-	•	Working principles and details of the critical equipment used in the experiment
+	\include{Sections/ExperimentalDetails}
 	
 	
-	\section{Measurement And Data Analysis}
-	
-	Analysis, calculations, and interpretation of the experimental data. Measurement and Data Analysis part must include:
-	
-	•	Data tables used during the experiment (if applicable)
-	
-	•	Graphs plotted to analyze the data (if applicable)
-	
-	•	Details of the calculations (if applicable) 
+	\include{Sections/MeasurementAndDataAnalysis}
 	
 	
-	\section{Results And Discussion}
-	
-	Discussion of your results and their connection to the theoretical predictions. Discussion part must include:
-	
-	•	A brief summary of the important steps of the experiment
-	
-	•	Discussion of the results and methods
-	
-	•	Possible reasons for errors and suggestions to avoid/reduce error in the experiment 
+	\include{Sections/ResultsAndDiscussion}
 	
 	
 	\nocite{*}
