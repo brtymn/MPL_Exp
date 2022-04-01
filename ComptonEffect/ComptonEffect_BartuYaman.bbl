@@ -1,12 +1,23 @@
 \begin{thebibliography}{1}
 
-\bibitem{ibm_composer_docs}
-IBM.
-\newblock Ibm quantum composer docs, 2021.
+\bibitem{compton:1923}
+Arthur~H. Compton.
+\newblock A quantum theory of the scattering of x-rays by light elements.
+\newblock {\em Physical Review}, 21(5):483--502, 1923.
 
-\bibitem{NielsenQComp}
-Michael~A. Nielsen and Isaac~L. Chuang.
-\newblock {\em Quantum Computation and Quantum Information}.
-\newblock Cambridge University Press, 2010.
+\bibitem{RF_thomson}
+Richard Fitzpartick.
+\newblock Richard fitzpartick lecture notes, 2014.
+
+\bibitem{RadDet}
+Glenn Knoll.
+\newblock {\em Radiation Detection And Measurement}.
+\newblock Wiley, 1979.
+
+\bibitem{rg}
+Siriwitpreecha Rindhatayathon.
+\newblock Calculation for graphite cavity ion chamber response to cs-137 gamma
+  ray using egsnrc monte carlo code.
+\newblock {\em RSU Research Conference 2020}, 2020.
 
 \end{thebibliography}

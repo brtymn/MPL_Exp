@@ -26,6 +26,6 @@
 \contentsline {subsection}{\numberline {3.2}Calculations}{15}{subsection.3.2}%
 \contentsline {section}{\numberline {4}Results And Discussion}{16}{section.4}%
 \contentsline {subsection}{\numberline {4.1}Discussion Of Results}{16}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Discussion Of Errors}{16}{subsection.4.2}%
-\contentsline {subsubsection}{\numberline {4.2.1}Main Sources Of Errors}{16}{subsubsection.4.2.1}%
-\contentsline {subsubsection}{\numberline {4.2.2}Error Mitigation}{16}{subsubsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2}Discussion Of Errors}{17}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Main Sources Of Errors}{17}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Error Mitigation}{18}{subsubsection.4.2.2}%

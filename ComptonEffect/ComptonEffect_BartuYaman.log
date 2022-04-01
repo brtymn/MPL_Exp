@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.20)  1 APR 2022 01:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.20)  1 APR 2022 16:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1314,23 +1314,23 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 <images/calibration_spectra.png, id=256, 642.60075pt x 319.1925pt>
 File: images/calibration_spectra.png Graphic file (type png)
 <use images/calibration_spectra.png>
-Package pdftex.def Info: images/calibration_spectra.png  used on input line 11.
+Package pdftex.def Info: images/calibration_spectra.png  used on input line 12.
 
 (pdftex.def)             Requested size: 390.0pt x 193.71843pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--18
+Underfull \hbox (badness 10000) in paragraph at lines 16--19
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--18
+Underfull \hbox (badness 10000) in paragraph at lines 16--19
 
  []
 
 <images/raw_spectra.png, id=257, 949.74825pt x 469.755pt>
 File: images/raw_spectra.png Graphic file (type png)
 <use images/raw_spectra.png>
-Package pdftex.def Info: images/raw_spectra.png  used on input line 22.
+Package pdftex.def Info: images/raw_spectra.png  used on input line 24.
 (pdftex.def)             Requested size: 390.0pt x 192.90184pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -1338,11 +1338,11 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <images/smoothed_spectra.png, id=258, 690.1785pt x 322.20375pt>
 File: images/smoothed_spectra.png Graphic file (type png)
 <use images/smoothed_spectra.png>
-Package pdftex.def Info: images/smoothed_spectra.png  used on input line 30.
+Package pdftex.def Info: images/smoothed_spectra.png  used on input line 33.
 (pdftex.def)             Requested size: 390.0pt x 182.07004pt.
 File: ./images/metu_logo.jpg Graphic file (type jpg)
 <use ./images/metu_logo.jpg>
-Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 32.
+Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 35.
 (pdftex.def)             Requested size: 142.26271pt x 28.45267pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1359,7 +1359,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
  <./images/calibration_spectra.png>]
 File: ./images/metu_logo.jpg Graphic file (type jpg)
 <use ./images/metu_logo.jpg>
-Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 35.
+Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 38.
 (pdftex.def)             Requested size: 142.26271pt x 28.45267pt.
 
 
@@ -1399,17 +1399,61 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 \openout2 = `Sections/ResultsAndDiscussion.aux'.
 
  (Sections/ResultsAndDiscussion.tex
-Underfull \hbox (badness 10000) in paragraph at lines 9--18
+<images/cs137_spectra.png, id=278, 557.08125pt x 386.44376pt>
+File: images/cs137_spectra.png Graphic file (type png)
+<use images/cs137_spectra.png>
+Package pdftex.def Info: images/cs137_spectra.png  used on input line 12.
+(pdftex.def)             Requested size: 390.0pt x 270.54416pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--19
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--18
+Underfull \hbox (badness 10000) in paragraph at lines 5--19
 
  []
 
-)
-Underfull \hbox (badness 10000) in paragraph at lines 19--104
+File: ./images/metu_logo.jpg Graphic file (type jpg)
+<use ./images/metu_logo.jpg>
+Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 19.
+(pdftex.def)             Requested size: 142.26271pt x 28.45267pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 32.8027pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.8027pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-20.8027pt}.
+
+[16
+
+
+
+ <./images/cs137_spectra.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 30--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--39
+
+ []
+
+File: ./images/metu_logo.jpg Graphic file (type jpg)
+<use ./images/metu_logo.jpg>
+Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 39.
+(pdftex.def)             Requested size: 142.26271pt x 28.45267pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 32.8027pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.8027pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-20.8027pt}.
+
+[17])
+Underfull \hbox (badness 10000) in paragraph at lines 40--104
 
  []
 
@@ -1425,11 +1469,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-20.8027pt}.
 
-[16
-
-
-
-] (ComptonEffect_BartuYaman.bbl) 
+[18] (ComptonEffect_BartuYaman.bbl) 
 AED: lastpage setting LastPage
 File: ./images/metu_logo.jpg Graphic file (type jpg)
 <use ./images/metu_logo.jpg>
@@ -1443,7 +1483,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-20.8027pt}.
 
-[17
+[19
 
 
 ] (ComptonEffect_BartuYaman.aux (Sections/Introduction.aux)
@@ -1454,10 +1494,10 @@ d.
 (rerunfilecheck)             Checksum: 2CD02D10A6F87728EF041404DBC404F0;4818.
  ) 
 Here is how much of TeX's memory you used:
- 38002 strings out of 478582
- 929513 string characters out of 2844344
- 1271459 words of memory out of 3000000
- 55467 multiletter control sequences out of 15000+600000
+ 38019 strings out of 478582
+ 929796 string characters out of 2844344
+ 1271691 words of memory out of 3000000
+ 55478 multiletter control sequences out of 15000+600000
  475486 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,15n,89p,1194b,829s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1476,9 +1516,9 @@ Users/Bartu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10
 cm/cmsy6.pfb><C:/Users/Bartu/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
 msfonts/cm/cmsy8.pfb><C:/Users/Bartu/AppData/Local/Programs/MiKTeX/fonts/type1/
 public/amsfonts/cm/cmti12.pfb>
-Output written on ComptonEffect_BartuYaman.pdf (17 pages, 6022265 bytes).
+Output written on ComptonEffect_BartuYaman.pdf (19 pages, 6057533 bytes).
 PDF statistics:
- 361 PDF objects out of 1000 (max. 8388607)
- 72 named destinations out of 1000 (max. 500000)
- 316 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 382 PDF objects out of 1000 (max. 8388607)
+ 77 named destinations out of 1000 (max. 500000)
+ 321 words of extra memory for PDF output out of 10000 (max. 10000000)
 
