@@ -1,17 +1,19 @@
 \contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
 \contentsline {subsection}{\numberline {1.1}Goal}{3}{subsection.1.1}%
 \contentsline {subsection}{\numberline {1.2}Theory}{3}{subsection.1.2}%
-\contentsline {section}{\numberline {2}Experimental Details}{4}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Equipment}{4}{subsection.2.1}%
-\contentsline {subsubsection}{\numberline {2.1.1}Equipment 1}{4}{subsubsection.2.1.1}%
-\contentsline {subsubsection}{\numberline {2.1.2}Equipment 2}{4}{subsubsection.2.1.2}%
-\contentsline {subsubsection}{\numberline {2.1.3}Equipment 3}{4}{subsubsection.2.1.3}%
-\contentsline {subsection}{\numberline {2.2}Procedure}{4}{subsection.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.1}Part 1}{4}{subsubsection.2.2.1}%
-\contentsline {subsubsection}{\numberline {2.2.2}Part 2}{4}{subsubsection.2.2.2}%
-\contentsline {section}{\numberline {3}Measurement And Data Analysis}{5}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Presentation Of Data}{5}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Calculations}{5}{subsection.3.2}%
-\contentsline {section}{\numberline {4}Results And Discussion}{6}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Discussion Of Results}{6}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Discussion Of Errors}{6}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Classical Theory Interpretation}{3}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}Quantum Theory Interpretation}{4}{subsubsection.1.2.2}%
+\contentsline {section}{\numberline {2}Experimental Details}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Equipment}{6}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Equipment 1}{6}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Equipment 2}{6}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}Equipment 3}{6}{subsubsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.2}Procedure}{6}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Part 1}{6}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Part 2}{6}{subsubsection.2.2.2}%
+\contentsline {section}{\numberline {3}Measurement And Data Analysis}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Presentation Of Data}{7}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Calculations}{7}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Results And Discussion}{8}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Discussion Of Results}{8}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Discussion Of Errors}{8}{subsection.4.2}%

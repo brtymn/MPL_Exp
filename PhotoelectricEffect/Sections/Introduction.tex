@@ -1,5 +1,55 @@
 \section{Introduction}
 
 	\subsection{Goal}
+		The goal of this experiment is to investigate the relation between the frequency of incident photons and the photocurrent. This relation will allow us to investigate the particle nature of light, helping us to understand the progression of modern physics and quantum theory through the years.
 	
 	\subsection{Theory}
+		The underlying physical mechanism of photoelectric effect can be investigated under two different approaches. Going through the classical wave theory approach first is beneficial to understand the importance of the quantum theory.
+		\subsubsection{Classical Theory Interpretation}
+			In 1886, Heinrich Hertz realized that ultraviolet light can be used to eject electrons from a metal surface. 
+			\\
+			\\
+			From the classical wave theory of light, the energy per unit volume for an electromagnetic wave can be written as:
+			\begin{align*}
+				u(x, t) = u_E + u_B = \frac{1}{2} \epsilon_0 E^2 + \frac{1}{2 \mu_0} B^2 
+			\end{align*}
+			This allows us to define the energy per unit area per unit time passing through a plane perpendicular to the wave, called the energy flux and denoted by $S$, which can be calculated by:
+			\begin{align*}
+				S = \frac{\text{Energy Passing Area A In Time t}}{\text{A * t}} = uc = \epsilon_0 c E^2 = \frac{1}{\mu_0} E B
+			\end{align*}
+			More generally, the flux of energy through any surface depends on the orientation of the surface. To take the direction into account, we introduce a vector $\vec{S}$, called the Poynting vector as:
+			\begin{align*}
+				\vec{S} = \frac{1}{\mu_0} \vec{E} \vec{B}
+			\end{align*}
+			The time average of the energy flux is the intensity $I$ of the electromagnetic wave $S_avg = I$. Therefore it is clear that the energy is proportional to the intensity of light according to this interpretation.
+			\\
+			\\
+			The energy being proportional to the intensity (or the amplitude) according to the wave theory has some implications that conflict with the result of the photoelectric effect experiment. The problems with this intepretation are:
+			\begin{itemize}
+				\item The force applied to an electron is $F_E = eE$, which means that the force applied to an electron increases as the amplitude of the electric field, hence the amplitude, increases. This suggests that the kinetic energy of photoelectrons should increase as the intensity increases, which is not the case for the photoelectric effect. The maximum kinetic energy of photoelectrons are independent of are independent of light intensity.
+				\item Wave theory suggests that the photoelectric effect should occur at any frequency, as long as the intensity if enough to excite the electrons on the surface of a metal. This contradicts with the existence of the cutoff frequency, $\nu_0$.
+				\item The wave theory requires a time delay between the emission of light and the ejection of photoelectrons, but no such delay has been measured.
+				\item The wave theory implies that the ejection of photoelectrons should be continuous since an electromagnetic wave is continuous. Which is not correct as it will be explained in the quantum theory. 
+			\end{itemize}
+		
+		\subsubsection{Quantum Theory Interpretation}
+			The "light quanta" hypothesis, which was hypothesized by Einstein in 1905, provided a revolutionary explanation to the photoelectric effect. Einstein proposed that light behaves as a stream of independent, localized units ,or quanta, of energy. 
+			\\
+			\\
+			Then he proposed that a photon could be absorbed by transferring all of its energy to a single electron and that radiation itself consisted of packets of energy, which can be shown as:
+			\begin{align*}
+				h \nu = \frac{1}{2} (m v^2)_{max} + W_0
+			\end{align*}
+			where $W_0$ is the work function of the material. The work function is defined as the minimum thermodynamic work required to remove an electron from a solid and it can be shown as:
+			\begin{align*}
+				W = -e \varphi - E_F,
+			\end{align*}
+			where $-e$ is the electron charge, $\varphi$ is the electrostatic vacuum and $E_F$ is the Fermi level inside the solid where The term $-e \varphi$ signifies the rest energy of an electron in vacuum. In quantum systems, if the process is allowed by quantum mechanics, either all of the energy from a photon is absorbed or none of the energy of the photon is absorbed. This means that if the energy is not enough, i.e. the frequency is insufficient,  nothing will happen.
+			\\
+			\\
+			The quantum theory is successful at explaining the existence of a cut off frequency as well. While observing the photoelectric effect, a positive external voltage is used to direct the photoemitted electrons onto the collector. If we use a negative voltage, it only allows the highest energy electrons to reach the collector. When there is no photocurrent, it means tat the negative voltage is enough to prevent the photoelectrons with the maximum kinetic energy $K_{max}$. This value of the voltage is called the cut off potential or the stopping potential $V_0$. When this value is reached, the work done by the cut off potential is enough to stop the electrons and this yields:
+			\begin{align*}
+				e V_0 = K_{max}.
+			\end{align*}
+			It is clear that the approach chosen by Einstein negated all of the shortcomings of the classical wave theory to explain the photoelectric effect. Einstein was also able to calculate Planck's constant really close to the value Max Planck obtained using the data from photoelectric effect experiments.
+	
