@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.20)  22 MAY 2022 17:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.20)  19 MAY 2022 22:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./PhotoelectricEffect_BartuYaman.tex
-(PhotoelectricEffect_BartuYaman.tex
+**./ElectronDiffraction_BartuYaman.tex
+(ElectronDiffraction_BartuYaman.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24>
 (C:\Users\Bartu\AppData\Local\Programs\MiKTeX\tex/latex/extsizes\extarticle.cls
@@ -904,46 +904,54 @@ rs
 (C:\Users\Bartu\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
 Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 28.
+(C:\Users\Bartu\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count340
+\float@exts=\toks46
+\float@box=\box69
+\@float@everytoks=\toks47
+\@floatcapt=\box70
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 29.
 
-(PhotoelectricEffect_BartuYaman.aux (Sections/Introduction.aux)
+(ElectronDiffraction_BartuYaman.aux (Sections/Introduction.aux)
 (Sections/ExperimentalDetails.aux) (Sections/MeasurementAndDataAnalysis.aux)
 (Sections/ResultsAndDiscussion.aux))
-\openout1 = `PhotoelectricEffect_BartuYaman.aux'.
+\openout1 = `ElectronDiffraction_BartuYaman.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
 
 (C:\Users\Bartu\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count340
+\scratchcounter=\count341
 \scratchdimen=\dimen292
-\scratchbox=\box69
-\nofMPsegments=\count341
-\nofMParguments=\count342
-\everyMPshowfont=\toks46
-\MPscratchCnt=\count343
+\scratchbox=\box71
+\nofMPsegments=\count342
+\nofMParguments=\count343
+\everyMPshowfont=\toks48
+\MPscratchCnt=\count344
 \MPscratchDim=\dimen293
-\MPnumerator=\count344
-\makeMPintoPDFobject=\count345
-\everyMPtoPDFconversion=\toks47
+\MPnumerator=\count345
+\makeMPintoPDFobject=\count346
+\everyMPtoPDFconversion=\toks49
 )
 (C:\Users\Bartu\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -955,7 +963,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring ON on input line 50.
+Package hyperref Info: Link coloring ON on input line 51.
 
 (C:\Users\Bartu\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -967,36 +975,36 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 lestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count346
+\c@section@level=\count347
 )
-LaTeX Info: Redefining \ref on input line 50.
-LaTeX Info: Redefining \pageref on input line 50.
-LaTeX Info: Redefining \nameref on input line 50.
- (PhotoelectricEffect_BartuYaman.out)
-(PhotoelectricEffect_BartuYaman.out)
+LaTeX Info: Redefining \ref on input line 51.
+LaTeX Info: Redefining \pageref on input line 51.
+LaTeX Info: Redefining \nameref on input line 51.
+ (ElectronDiffraction_BartuYaman.out)
+(ElectronDiffraction_BartuYaman.out)
 \@outlinefile=\write4
-\openout4 = `PhotoelectricEffect_BartuYaman.out'.
+\openout4 = `ElectronDiffraction_BartuYaman.out'.
 
 
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
 your preamble.
- on input line 50.
+ on input line 51.
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 50.
-<./images/photoelectric_effect.png, id=90, 1084.05pt x 813.0375pt>
-File: ./images/photoelectric_effect.png Graphic file (type png)
-<use ./images/photoelectric_effect.png>
-Package pdftex.def Info: ./images/photoelectric_effect.png  used on input line 
-85.
-(pdftex.def)             Requested size: 216.81pt x 162.60461pt.
-<./images/metu_logo.jpg, id=91, 380.7315pt x 76.5405pt>
+(lastpage)             ! on input line 51.
+<./images/electron_diffraction.png, id=82, 463.7325pt x 258.9675pt>
+File: ./images/electron_diffraction.png Graphic file (type png)
+<use ./images/electron_diffraction.png>
+Package pdftex.def Info: ./images/electron_diffraction.png  used on input line 
+86.
+(pdftex.def)             Requested size: 216.81pt x 121.07854pt.
+<./images/metu_logo.jpg, id=83, 380.7315pt x 76.5405pt>
 File: ./images/metu_logo.jpg Graphic file (type jpg)
 <use ./images/metu_logo.jpg>
-Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 93.
+Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 94.
 (pdftex.def)             Requested size: 142.26271pt x 28.45267pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1010,14 +1018,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 {C:/Users/Bartu/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/met
-u_logo.jpg> <./images/photoelectric_effect.png>]
-(PhotoelectricEffect_BartuYaman.toc)
+u_logo.jpg> <./images/electron_diffraction.png>]
+(ElectronDiffraction_BartuYaman.toc)
 \tf@toc=\write5
-\openout5 = `PhotoelectricEffect_BartuYaman.toc'.
+\openout5 = `ElectronDiffraction_BartuYaman.toc'.
 
 File: ./images/metu_logo.jpg Graphic file (type jpg)
 <use ./images/metu_logo.jpg>
-Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 95.
+Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 96.
 (pdftex.def)             Requested size: 142.26271pt x 28.45267pt.
 
 
@@ -1032,18 +1040,34 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 \openout2 = `Sections/Introduction.aux'.
 
  (Sections/Introduction.tex
-Underfull \hbox (badness 10000) in paragraph at lines 9--13
+Underfull \hbox (badness 10000) in paragraph at lines 8--12
+
+ []
+
+<./images/bragg_diffraction.png, id=116, 642.4pt x 413.545pt>
+File: ./images/bragg_diffraction.png Graphic file (type png)
+<use ./images/bragg_diffraction.png>
+Package pdftex.def Info: ./images/bragg_diffraction.png  used on input line 32.
+
+(pdftex.def)             Requested size: 390.0pt x 251.06944pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--35
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--28
+Underfull \hbox (badness 10000) in paragraph at lines 25--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--35
 
  []
 
 File: ./images/metu_logo.jpg Graphic file (type jpg)
 <use ./images/metu_logo.jpg>
-Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 28.
+Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 35.
 (pdftex.def)             Requested size: 142.26271pt x 28.45267pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1056,13 +1080,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [3
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 36--40
+Underfull \hbox (badness 10000) in paragraph at lines 39--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--47
 
  []
 
 File: ./images/metu_logo.jpg Graphic file (type jpg)
 <use ./images/metu_logo.jpg>
-Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 44.
+Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 47.
 (pdftex.def)             Requested size: 142.26271pt x 28.45267pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1072,15 +1101,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-20.8027pt}.
 
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 46--51
-
- []
-
-)
+[4
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.47 		
+        <./images/bragg_diffraction.png>])
 File: ./images/metu_logo.jpg Graphic file (type jpg)
 <use ./images/metu_logo.jpg>
-Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 97.
+Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 98.
 (pdftex.def)             Requested size: 142.26271pt x 28.45267pt.
 
 
@@ -1094,30 +1124,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [5]
 \openout2 = `Sections/ExperimentalDetails.aux'.
 
- (Sections/ExperimentalDetails.tex
-Underfull \hbox (badness 10000) in paragraph at lines 6--10
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--17
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--22
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--27
-
- []
-
+ (Sections/ExperimentalDetails.tex)
 File: ./images/metu_logo.jpg Graphic file (type jpg)
 <use ./images/metu_logo.jpg>
-Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 27.
+Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 101.
 (pdftex.def)             Requested size: 142.26271pt x 28.45267pt.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 32.8027pt, for example:
@@ -1130,10 +1142,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 
-])
+]
+\openout2 = `Sections/MeasurementAndDataAnalysis.aux'.
+
+ (Sections/MeasurementAndDataAnalysis.tex)
 File: ./images/metu_logo.jpg Graphic file (type jpg)
 <use ./images/metu_logo.jpg>
-Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 100.
+Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 104.
 (pdftex.def)             Requested size: 142.26271pt x 28.45267pt.
 
 
@@ -1144,13 +1159,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-20.8027pt}.
 
-[7]
-\openout2 = `Sections/MeasurementAndDataAnalysis.aux'.
+[7
 
- (Sections/MeasurementAndDataAnalysis.tex)
+
+
+]
+\openout2 = `Sections/ResultsAndDiscussion.aux'.
+
+ (Sections/ResultsAndDiscussion.tex)
 File: ./images/metu_logo.jpg Graphic file (type jpg)
 <use ./images/metu_logo.jpg>
-Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 103.
+Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 107.
 (pdftex.def)             Requested size: 142.26271pt x 28.45267pt.
 
 
@@ -1165,15 +1184,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 
-]
-\openout2 = `Sections/ResultsAndDiscussion.aux'.
-
- (Sections/ResultsAndDiscussion.tex)
+] (ElectronDiffraction_BartuYaman.bbl) 
+AED: lastpage setting LastPage
 File: ./images/metu_logo.jpg Graphic file (type jpg)
 <use ./images/metu_logo.jpg>
-Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 106.
+Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 115.
 (pdftex.def)             Requested size: 142.26271pt x 28.45267pt.
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 32.8027pt, for example:
@@ -1185,53 +1201,31 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [9
 
 
-
-] (PhotoelectricEffect_BartuYaman.bbl) 
-AED: lastpage setting LastPage
-File: ./images/metu_logo.jpg Graphic file (type jpg)
-<use ./images/metu_logo.jpg>
-Package pdftex.def Info: ./images/metu_logo.jpg  used on input line 114.
-(pdftex.def)             Requested size: 142.26271pt x 28.45267pt.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 32.8027pt, for example:
-(fancyhdr)                \setlength{\headheight}{32.8027pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-20.8027pt}.
-
-[10
-
-
-] (PhotoelectricEffect_BartuYaman.aux (Sections/Introduction.aux)
+] (ElectronDiffraction_BartuYaman.aux (Sections/Introduction.aux)
 (Sections/ExperimentalDetails.aux) (Sections/MeasurementAndDataAnalysis.aux)
 (Sections/ResultsAndDiscussion.aux))
-Package rerunfilecheck Info: File `PhotoelectricEffect_BartuYaman.out' has not 
+Package rerunfilecheck Info: File `ElectronDiffraction_BartuYaman.out' has not 
 changed.
-(rerunfilecheck)             Checksum: D12C7AD3DE35E1D8BC46ECBB42BABA55;3032.
+(rerunfilecheck)             Checksum: FF279285CF45DF0279C7EC3597F95DA4;2474.
  ) 
 Here is how much of TeX's memory you used:
- 34499 strings out of 478582
- 823471 string characters out of 2844344
- 1253637 words of memory out of 3000000
- 52030 multiletter control sequences out of 15000+600000
- 475486 words of font info for 49 fonts, out of 8000000 for 9000
+ 34570 strings out of 478582
+ 824803 string characters out of 2844344
+ 1254637 words of memory out of 3000000
+ 52099 multiletter control sequences out of 15000+600000
+ 475149 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,15n,89p,1200b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\Bartu\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
-1200.pk><C:/Users/Bartu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmbx10.pfb><C:/Users/Bartu/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmbx12.pfb><C:/Users/Bartu/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Bartu/AppData/Local/Programs/MiKTe
-X/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Bartu/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Bartu/AppData/Loca
-l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Bartu/AppDa
-ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Ba
-rtu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on PhotoelectricEffect_BartuYaman.pdf (10 pages, 1451282 bytes).
-
+ 84i,14n,89p,1200b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<C:/Users/Bartu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmbx10.pfb><C:/Users/Bartu/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmbx12.pfb><C:/Users/Bartu/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmmi12.pfb><C:/Users/Bartu/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Bartu/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Bartu/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on ElectronDiffraction_BartuYaman.pdf (9 pages, 164573 bytes).
 PDF statistics:
- 215 PDF objects out of 1000 (max. 8388607)
- 36 named destinations out of 1000 (max. 500000)
- 191 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 191 PDF objects out of 1000 (max. 8388607)
+ 34 named destinations out of 1000 (max. 500000)
+ 180 words of extra memory for PDF output out of 10000 (max. 10000000)
 
