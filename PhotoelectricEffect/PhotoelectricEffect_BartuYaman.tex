@@ -4,14 +4,19 @@
 \usepackage{blindtext}
 \usepackage{graphicx} % Package to manage images
 \usepackage{wrapfig} % Package to wrap text around figures
+\usepackage{multirow}
 \usepackage{physics} % For the bra-ket notation.
 \usepackage{amsmath} % For centering equations.
 \usepackage{hyperref}
 \usepackage{tikz}
+\usepackage{float}
 \usetikzlibrary{quantikz}
 \usepackage{pgfplots}
 \usepackage{fancyhdr}
 \usepackage{lastpage}
+\usepackage{listings}
+\usepackage{xcolor}
+
 
 \pagestyle{fancy}
 \fancyhf{}
@@ -106,9 +111,12 @@
 	\include{Sections/ResultsAndDiscussion}
 	
 	
+	
 	\nocite{*}
 	\bibliographystyle{plain} % We choose the "plain" reference style
 	\bibliography{ref} % Entries are in the refs.bib file
+	
+	\include{Sections/Appendix}
 			
 		
 \end{document}
