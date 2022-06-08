@@ -1,12 +1,27 @@
 \begin{thebibliography}{1}
 
-\bibitem{ibm_composer_docs}
-IBM.
-\newblock Ibm quantum composer docs, 2021.
+\bibitem{sci_inst}
+James Blackburn.
+\newblock {\em Modern Instrumentation For Scientists and Engineers}.
+\newblock Springer-Verlag New York Inc., 2000.
 
-\bibitem{NielsenQComp}
-Michael~A. Nielsen and Isaac~L. Chuang.
-\newblock {\em Quantum Computation and Quantum Information}.
-\newblock Cambridge University Press, 2010.
+\bibitem{griffiths}
+David~J. Griffiths.
+\newblock {\em Introduction To Electrodynamics}.
+\newblock Cambridge University Press, 2017.
+
+\bibitem{hect}
+Eugene Hect.
+\newblock {\em Optics}.
+\newblock Pearson, 2015.
+
+\bibitem{krane}
+Kenneth Krane.
+\newblock {\em Modern Physics}.
+\newblock Wiley, 2012.
+
+\bibitem{zeiss_mercur_spectra}
+Zeiss Michael W.~Davidson.
+\newblock Fundamentals of mercury arc lamps.
 
 \end{thebibliography}
