@@ -2,4 +2,61 @@
 
 	\subsection{Presentation Of Data}
 	
+		\begin{table}[h!]
+			\begin{tabular}{||c c c c c c c c||} 
+				\hline
+				D1 & D2 & D3 & D4 & D5 & D6 & D7 & D8 \\ [0.5ex] 
+				\hline\hline
+				'Violet'& 1& -15.61& 16& 0.275& 4612.07& 1.13& 52.72 \\
+				\hline
+				'Green-Blue'& 1& -17.5& 17.5& 0.30& 5090.94& 1.12& 58.05 \\
+				\hline
+				'Green'& 1& -20.03& 20.16& 0.35& 5818.15& 2.28& -129.95 \\
+				\hline
+				'Yellow'& 1& -20.91& 20.96& 0.36& 6051.07& 2.63& -155.17 \\
+				\hline
+				'Red'& 1& -21.83& 21.98& 0.38& 6316.96& 2.53& -156.26 \\ [1ex]  
+				\hline
+			\end{tabular}
+	\caption{Spectral Lines Of Na, First Order Image}
+	\label{table:Data1}
+	\end{table}
+For Table \ref{table:Data1} above: D1 is the color of the line observed, D2 is the order number, D3 is the angular position of the image from left, D4 is the angular position of the image from right, D5 is the average angular position of the image, D6 is $sin\theta$, D7 is wavelength and D8 is percentage error.
+	\begin{center}
+	\begin{table}[h!]
+		\begin{tabular}{||c c c c c c c c c c||} 
+			\hline
+			Color & Order & $\theta_{d1}$ & $\theta_{d2}$ & sin$\theta_{d1}$ & sin$\theta_{d2}$ & $\lambda_1$ & $\lambda_2$ & $\Delta \lambda$,e & $\Delta \lambda$,t \\ [0.5ex] 
+			\hline\hline
+			'Green'& 2& 11.5& 11.51& 0.20& 0.20& 5920.14& 5922.56& 2.41& 56.91 \\
+			\hline
+			'Green'& 3& 32.69& 32.78& 0.57& 0.57& 5870.42& 5877.32& 6.90& 23.28 \\
+			\hline
+			'Yellow'& 2& 12.85& 12.90& 0.22& 0.22& 6115.11& 6122.31& 7.20& 20.02 \\
+			\hline
+			'Yellow'& 3& 34.65& 34.75& 0.60& 0.60& 6030.25& 6038.34& 8.09& 34.96 \\
+			\hline
+			'Red'& 2& 14.70& 14.75& 0.25& 0.25& 6380.56& 6387.70& 7.14& 9.91 \\
+			\hline
+		\end{tabular}
+		\caption{Spectral Lines Of Na, Higher Order Images}
+		\label{table:Data2}
+	\end{table}
+\end{center}
+	
 	\subsection{Calculations}
+		The calculations for the first part of the experiment followed from the relation
+		\begin{equation}
+			n \lambda = d sin\theta
+		\end{equation}
+		where $n$ is the order number (which is $n = 1$ for the first part), $\lambda$ is the wavelength, $d$ is the spacing of the grating material and $\theta$ is the measurement angle.
+		\\
+		\\
+		The calculations for the second part of the experiment followed from the relation
+		\begin{equation}
+			n \lambda = d (sin\theta_i + sin\theta_d)
+		\end{equation}
+		where $\theta_i$ is the angle of incidence (which is thirty degrees for the second part) and $\theta_d$ is the angle of diffraction.
+		\\
+		\\
+		All of the calculations were carried out using a Python script to avoid tedious intermediate steps and two significant figures were chosen as the resolution for this experiment.

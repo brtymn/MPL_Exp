@@ -1,0 +1,12 @@
+\begin{thebibliography}{1}
+
+\bibitem{ibm_composer_docs}
+IBM.
+\newblock Ibm quantum composer docs, 2021.
+
+\bibitem{NielsenQComp}
+Michael~A. Nielsen and Isaac~L. Chuang.
+\newblock {\em Quantum Computation and Quantum Information}.
+\newblock Cambridge University Press, 2010.
+
+\end{thebibliography}
